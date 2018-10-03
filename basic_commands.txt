@@ -1,1 +1,2 @@
 1. git clone https://github.com/kennyzx/gitcommands gitcommands
+2. git checkout myfile.txt //override local change
